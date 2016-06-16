@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/valchevv/Documents/Visual Studio 2015/Projects/ClassicRPG/ClassicRPG/Content/Player.PNG</File>
+    <File>C:/Users/valchevv/Documents/Visual Studio 2015/Projects/ClassicRPG/ClassicRPG/Content/Enemy.PNG</File>
+    <File>C:/Users/valchevv/Documents/Visual Studio 2015/Projects/ClassicRPG/ClassicRPG/Content/Inventory.PNG</File>
+    <File>C:/Users/valchevv/Documents/Visual Studio 2015/Projects/ClassicRPG/ClassicRPG/Content/WizardAttackRight.png</File>
+    <File>C:/Users/valchevv/Documents/Visual Studio 2015/Projects/ClassicRPG/ClassicRPG/Content/WizardIdleRight.png</File>
+    <File>C:/Users/valchevv/Documents/Visual Studio 2015/Projects/ClassicRPG/ClassicRPG/Content/WizardWalkRight.png</File>
+    <File>C:/Users/valchevv/Documents/Visual Studio 2015/Projects/ClassicRPG/ClassicRPG/Content/FireBallSmallSpell (1).png</File>
+    <File>C:/Users/valchevv/Documents/Visual Studio 2015/Projects/ClassicRPG/ClassicRPG/Content/PlayerStatus.spritefont</File>
+    <File>C:/Users/valchevv/Documents/Visual Studio 2015/Projects/ClassicRPG/ClassicRPG/Content/IceSmallSpell.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,6 @@
+1. Change spells :
+q - Fireball
+w - IceBolt
+
+2. Movement is with holding the left mouse button
+3. Mouse right-click fires the spell.

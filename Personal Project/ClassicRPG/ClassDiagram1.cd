@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassicRPG.Events.EventRPG" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Events\EventRPG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.Game1" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAEEAAAAAAAwAAAAAAAAAAAAAAAAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.Program" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.GameEngine.Animation.Animation" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACACAAAAAAAAAAQQAAAEAAAAAAAAAQgAAAA=</HashCode>
+      <FileName>GameEngine\Animation\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.GameEngine.Animation.AnimationController" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAgAAAAAAEAIAAAAAAAgAAAAAAAAAAAMAA=</HashCode>
+      <FileName>GameEngine\Animation\AnimationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.GameEngine.Animation.AnimationFrame" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEngine\Animation\AnimationFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.GameEngine.CharacterCreation" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEngine\CharacterCreation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.GameEngine.DataEngine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAAkAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEngine\DataEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClassicRPG.GameEngine.GraphicsEngine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAgAEgAAAgAAAAAAAAAAEQAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>GameEngine\GraphicsEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClassicRPG.GameObjects.Enemies.Enemy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACABAAAgAQgQAAAIEAAAAAAAAAgAAAAIAAAAAg=</HashCode>
+      <FileName>GameObjects\Enemies\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClassicRPG.GameObjects.Inventory.InventoryClass" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAgAAAAAAAEAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Inventory\InventoryClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.GameObjects.Items.Items" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Items\Items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.GameObjects.Player.Character" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAABAAQCgQASCCAAEAAAAIAAAAACAAAJAAaECw=</HashCode>
+      <FileName>GameObjects\Player\Character.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassicRPG.GameObjects.Player.Wizard" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAgBAAAAAAAAACAQAACAACAAAAAAAAAQ=</HashCode>
+      <FileName>GameObjects\Player\Wizard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.GameObjects.Projectile.Projectiles" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQBAACABQAAggQkwAAAIEABAAAAAQAgAAIAIAAAAAQ=</HashCode>
+      <FileName>GameObjects\Projectile\Projectiles.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassicRPG.GameObjects.Spells.Fireball" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCSAAAAAAIAACgBAAAAAAAAAAAAAAAAAAAAAAAIAAAQ=</HashCode>
+      <FileName>GameObjects\Spells\Fireball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.GameObjects.Spells.IceBolt" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAAgQAAAAAAAAAgQQAAAAAAAAAACAAAAw=</HashCode>
+      <FileName>GameObjects\Spells\IceBolt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.GameObjects.Spells.SpellProjectile" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>GameObjects\Spells\SpellProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.Interfaces.IMouseController" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAIUAAAAAAAAAAAEAAAAAYAAA=</HashCode>
+      <FileName>Interfaces\IMouseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassicRPG.Map.GameMap" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\GameMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClassicRPG.Interfaces.ICharacter" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAABAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Interfaces\ICharacter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClassicRPG.Interfaces.IData" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClassicRPG.Interfaces.IEnemy" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAgAAAAAEAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClassicRPG.Interfaces.IEngine" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IEngine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClassicRPG.Interfaces.IGraphicsEngine" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGraphicsEngine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClassicRPG.Interfaces.IItem" Collapsed="true">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Interfaces\IItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClassicRPG.Interfaces.IProjectile" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACABAAAAgAgAAAAAEABAAAAAAAgAAAAAAAAAAQ=</HashCode>
+      <FileName>Interfaces\IProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

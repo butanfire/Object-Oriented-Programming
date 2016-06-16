@@ -1,0 +1,35 @@
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\Content\Enemy.xnb
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\Content\FireBallSmallSpell (1).xnb
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\Content\IceSmallSpell.xnb
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\Content\Inventory.xnb
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\Content\Player.xnb
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\Content\PlayerStatus.xnb
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\Content\WizardAttackRight.xnb
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\Content\WizardIdleRight.xnb
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\Content\WizardWalkRight.xnb
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\ClassicRPG.exe
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\ClassicRPG.pdb
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.dll
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.xml
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\obj\x86\Debug\ClassicRPG.exe
+C:\Users\valchevv\Documents\Visual Studio 2015\Projects\ClassicRPG\ClassicRPG\obj\x86\Debug\ClassicRPG.pdb
+C:\Users\valchevv\Desktop\GitHub\C#-OOP\ClassicRPG\obj\x86\Debug\ClassicRPG.exe
+C:\Users\valchevv\Desktop\GitHub\C#-OOP\ClassicRPG\obj\x86\Debug\ClassicRPG.pdb
